@@ -1,7 +1,7 @@
 # Full-Screen-Nav-Menu
 A full-screen popped up navigation menu. Nav links are animated and responsive with hovering effects. 
 
-**Link to the Website**: https://www.youtube.com/watch?v=4Fm4sLISugw
+**Link to the Website**: https://codepen.io/hodin81/full/rNvZGxx
 
 <img width="844" alt="Screen Shot 2022-10-06 at 11 48 40 AM" src="https://user-images.githubusercontent.com/100463706/194397600-221b61ad-df87-414a-8a9a-efa892f6346b.png">
 
@@ -9,7 +9,7 @@ A full-screen popped up navigation menu. Nav links are animated and responsive w
 
 **Tech Used**: HTML 5, CSS 3, and JavaScript
 
-**Tutorial Video from Easy Tutorial**: https://www.youtube.com/watch?v=73Pnj4MfhzI
+**Tutorial Video from Easy Tutorial**: https://www.youtube.com/watch?v=4Fm4sLISugw
 
 # Lessons Learned:
 
